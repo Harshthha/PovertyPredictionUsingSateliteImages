@@ -1,1 +1,1 @@
-# PovertyPredictionUsingSateliteImages
+# Poverty Prediction Using Satelite Images
